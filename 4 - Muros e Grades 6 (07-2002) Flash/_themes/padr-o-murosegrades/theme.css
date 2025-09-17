@@ -1,0 +1,8 @@
+.mstheme     { navbutton-background-color: rgb(255,255,255); top-bar-button: 
+               url(claglobl.gif) }
+.mstheme-topbar-font { font-family: Arial, Arial, Helvetica; font-size: 8pt; color: rgb(255,255,255) }
+body         { vertical-align: none; font-style: normal; text-align: none; font-weight: 
+               normal; font-family: Times New Roman; background-image: 
+               url('waybkgnd.gif') }
+table        { font-weight: normal; font-family: Times New Roman; font-style: normal; 
+               text-align: none; vertical-align: none }

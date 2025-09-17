@@ -1,0 +1,140 @@
+App.progressCountTotal = 17;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/GESSINGER.21-2000gessinger_marley.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'GESSINGER.21-2000gessinger_marley.jpg';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/GESSINGER_21-2000gessinger_marley_jpg.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/GESSINGER_21-2000gessinger_marley_jpg.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/GESSINGER_21-2000gessinger_marley_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/GESSINGER_21-2000gessinger_marley_jpg.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/GESSINGER_21-2000gessinger_marley_jpg.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/GESSINGER_21-2000gessinger_marley_jpg.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/25.JPG');
+App.progressCountCurrent = 2;
+App.batchStatusString = '25.JPG';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/25_JPG.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/25_JPG.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/25_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/25_JPG.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/25_JPG.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/25_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/5.jpeg');
+App.progressCountCurrent = 3;
+App.batchStatusString = '5.jpeg';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/5_jpeg.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/5_jpeg.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/5_jpeg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/5_jpeg.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/5_jpeg.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/5_jpeg.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/6.jpeg');
+App.progressCountCurrent = 4;
+App.batchStatusString = '6.jpeg';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/6_jpeg.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/6_jpeg.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/6_jpeg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/6_jpeg.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/6_jpeg.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/6_jpeg.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/7.jpeg');
+App.progressCountCurrent = 5;
+App.batchStatusString = '7.jpeg';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/7_jpeg.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/7_jpeg.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/7_jpeg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/7_jpeg.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/7_jpeg.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/7_jpeg.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/a.jpeg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'a.jpeg';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/a_jpeg.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/a_jpeg.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/a_jpeg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/a_jpeg.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/a_jpeg.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/a_jpeg.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/c.jpeg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'c.jpeg';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/c_jpeg.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/c_jpeg.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/c_jpeg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/c_jpeg.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/c_jpeg.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/c_jpeg.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/FOTO_2.JPG');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'FOTO_2.JPG';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/FOTO_2_JPG.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/FOTO_2_JPG.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/FOTO_2_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/FOTO_2_JPG.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/FOTO_2_JPG.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/FOTO_2_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/FOTO_3.JPG');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'FOTO_3.JPG';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/FOTO_3_JPG.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/FOTO_3_JPG.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/FOTO_3_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/FOTO_3_JPG.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/FOTO_3_JPG.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/FOTO_3_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/FOTO_5.JPG');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'FOTO_5.JPG';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/FOTO_5_JPG.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/FOTO_5_JPG.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/FOTO_5_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/FOTO_5_JPG.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/FOTO_5_JPG.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/FOTO_5_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/FOTO_7.JPG');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'FOTO_7.JPG';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/FOTO_7_JPG.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/FOTO_7_JPG.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/FOTO_7_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/FOTO_7_JPG.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/FOTO_7_JPG.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/FOTO_7_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/GESSINGER.02.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'GESSINGER.02.jpg';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/GESSINGER_02_jpg.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/GESSINGER_02_jpg.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/GESSINGER_02_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/GESSINGER_02_jpg.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/GESSINGER_02_jpg.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/GESSINGER_02_jpg.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/GESSINGER.03.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'GESSINGER.03.jpg';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/GESSINGER_03_jpg.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/GESSINGER_03_jpg.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/GESSINGER_03_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/GESSINGER_03_jpg.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/GESSINGER_03_jpg.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/GESSINGER_03_jpg.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/GESSINGER.04.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'GESSINGER.04.jpg';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/GESSINGER_04_jpg.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/GESSINGER_04_jpg.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/GESSINGER_04_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/GESSINGER_04_jpg.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/GESSINGER_04_jpg.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/GESSINGER_04_jpg.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/GESSINGER.16-99.jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'GESSINGER.16-99.jpg';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/GESSINGER_16-99_jpg.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/GESSINGER_16-99_jpg.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/GESSINGER_16-99_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/GESSINGER_16-99_jpg.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/GESSINGER_16-99_jpg.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/GESSINGER_16-99_jpg.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/09.JPG');
+App.progressCountCurrent = 16;
+App.batchStatusString = '09.JPG';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/09_JPG.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/09_JPG.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/09_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/09_JPG.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/09_JPG.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/09_JPG.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Muros e Grades8/fotos/os_tres.jpeg');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'os_tres.jpeg';
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/images/os_tres_jpeg.jpg') || confirm('file:///D|/Muros e Grades8/fotos/images/os_tres_jpeg.jpg já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/images/os_tres_jpeg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Muros e Grades8/fotos/thumbnails/os_tres_jpeg.gif') || confirm('file:///D|/Muros e Grades8/fotos/thumbnails/os_tres_jpeg.gif já existe. Clique em OK, para substituir o arquivo.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Muros e Grades8/fotos/thumbnails/os_tres_jpeg.gif',({applyScale:true, colorMode:"indexed", exportFormat:"GIF", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:1, name:"GIF WebSnap 256", numEntriesRequested:256, percentScale:100, useScale:false, xSize:-36, ySize:-36}));
+fw.closeDocument(doc);
+'done';
