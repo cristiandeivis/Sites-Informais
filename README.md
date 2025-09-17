@@ -2,35 +2,6 @@
 
 Este repositório documenta os sites informais que desenvolvi entre 2001 e 2004, durante meus primeiros passos na área web. Esses projetos marcaram minha transição do aprendizado autodidata ao primeiro curso de Web Designer, utilizando ferramentas como FrontPage, Dreamweaver, Fireworks e Flash.
 
-## Acesso aos sites
-
-As versões preservadas dos sites podem ser acessadas diretamente pelo link:  
-https://cristiandeivis.github.io/Sites-Informais/
-
-Observação: A versão 4 - Muros e Grades 6 (07/2002) Flash não ficou compatível online devido a estrutura de pastas utilizadas. 
-No entanto, foram incluídos arquivos ilustrativos e demonstrativos:
-
-- Visual Site Flash.png (visual de como o site seria com a animação)
-  https://github.com/cristiandeivis/Sites-Informais/blob/main/4%20-%20Muros%20e%20Grades%206%20(07-2002)%20Flash/Visual%20Site%20Flash.png  
-- Visual Site Compara Antigo.png  (versão antiga para comparação)
-  https://github.com/cristiandeivis/Sites-Informais/blob/main/4%20-%20Muros%20e%20Grades%206%20(07-2002)%20Flash/Visual%20Site%20Compara%20Antigo.png  
-- Filme1.mp4  (Visualização em vídeo de como a animação funcionava)
-  https://github.com/cristiandeivis/Sites-Informais/blob/main/4%20-%20Muros%20e%20Grades%206%20(07-2002)%20Flash/Filme1.mp4
-
-Demais versões com Flash também possuem material de apoio:
-
-6 - Muros e Grades 9 (01/2004) Flash  
-- Imagem Site Flash.png (visual de como o site seria com a animação)
-  https://github.com/cristiandeivis/Sites-Informais/blob/main/6%20-%20Muros%20e%20Grades%209%20(01-2004)%20Flash/Imagem%20Site%20Flash.png  
-- index_logo.mp4 (Visualização em vídeo de como a animação funcionava)
-  https://github.com/cristiandeivis/Sites-Informais/blob/main/6%20-%20Muros%20e%20Grades%209%20(01-2004)%20Flash/index_logo.mp4
-
-7 - Muros e Grades 10 (03/2004) Flash  
-- Imagem Site Flash.png (visual de como o site seria com a animação)  
-  https://github.com/cristiandeivis/Sites-Informais/blob/main/7%20-%20Muros%20e%20Grades%2010%20(03-2004)%20Flash/Imagem%20Site%20Flash.png  
-- index_logo.mp4 (Visualização em vídeo de como a animação funcionava)
-  https://github.com/cristiandeivis/Sites-Informais/blob/main/7%20-%20Muros%20e%20Grades%2010%20(03-2004)%20Flash/index_logo.mp4
-
 ## Sobre a série "Muros e Grades"
 
 Trata-se de uma série de sites não comerciais, criados como homenagem à banda Engenheiros do Hawaii.  
@@ -68,3 +39,33 @@ As páginas estão preservadas com seus estilos e estrutura da época, sem adapt
 ## Créditos
 
 Todos os sites foram criados por mim como parte do meu processo de formação e experimentação, tanto autodidata quanto técnica, em desenvolvimento web — ainda durante o período da faculdade.
+
+---
+
+## Acesso aos sites e material de apoio
+
+As versões preservadas dos sites podem ser acessadas diretamente pelo link:  
+https://cristiandeivis.github.io/Sites-Informais/
+
+**Observação:** A versão 4 - *Muros e Grades 6 (07/2002)* Flash não ficou compatível online devido à estrutura de pastas utilizadas. Foram incluídos arquivos ilustrativos e demonstrativos:
+
+- Visual Site Flash.png (visual de como o site era com a animação)
+  https://github.com/cristiandeivis/Sites-Informais/blob/main/4%20-%20Muros%20e%20Grades%206%20(07-2002)%20Flash/Visual%20Site%20Flash.png  
+- Visual Site Compara Antigo.png (versão antiga para comparação)
+  https://github.com/cristiandeivis/Sites-Informais/blob/main/4%20-%20Muros%20e%20Grades%206%20(07-2002)%20Flash/Visual%20Site%20Compara%20Antigo.png  
+- Filme1.mp4 (visualização em vídeo da animação) 
+  https://github.com/cristiandeivis/Sites-Informais/blob/main/4%20-%20Muros%20e%20Grades%206%20(07-2002)%20Flash/Filme1.mp4
+
+**Demais versões com Flash também possuem material de apoio:**
+
+**6 - Muros e Grades 9 (01/2004)**  
+- Imagem Site Flash.png (visual de como o site era com a animação) 
+  https://github.com/cristiandeivis/Sites-Informais/blob/main/6%20-%20Muros%20e%20Grades%209%20(01-2004)%20Flash/Imagem%20Site%20Flash.png  
+- index_logo.mp4 (visualização em vídeo da animação) 
+  https://github.com/cristiandeivis/Sites-Informais/blob/main/6%20-%20Muros%20e%20Grades%209%20(01-2004)%20Flash/index_logo.mp4
+
+**7 - Muros e Grades 10 (03/2004)**  
+- Imagem Site Flash.png (visual de como o site era com a animação) 
+  https://github.com/cristiandeivis/Sites-Informais/blob/main/7%20-%20Muros%20e%20Grades%2010%20(03-2004)%20Flash/Imagem%20Site%20Flash.png  
+- index_logo.mp4 (visualização em vídeo da animação)  
+  https://github.com/cristiandeivis/Sites-Informais/blob/main/7%20-%20Muros%20e%20Grades%2010%20(03-2004)%20Flash/index_logo.mp4
