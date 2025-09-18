@@ -50,22 +50,22 @@ https://cristiandeivis.github.io/Sites-Informais/
 **Observação:** A versão 4 - *Muros e Grades 6 (07/2002)* Flash não ficou compatível online devido à estrutura de pastas utilizadas. Foram incluídos arquivos ilustrativos e demonstrativos:
 
 - Visual Site Flash.png (visual de como o site era com a animação)
-  https://github.com/cristiandeivis/Sites-Informais/blob/main/4%20-%20Muros%20e%20Grades%206%20(07-2002)%20Flash/Visual%20Site%20Flash.png  
+<img width="766" height="858" alt="Visual Site Compara Antigo" src="https://github.com/user-attachments/assets/0532ee05-b97c-48e5-a020-cd06a933cf61" />
 - Visual Site Compara Antigo.png (versão antiga para comparação)
-  https://github.com/cristiandeivis/Sites-Informais/blob/main/4%20-%20Muros%20e%20Grades%206%20(07-2002)%20Flash/Visual%20Site%20Compara%20Antigo.png  
+<img width="1149" height="793" alt="Visual Site Flash" src="https://github.com/user-attachments/assets/4df513b2-3d36-472d-be41-d0304269b869" />
 - Filme1.mp4 (visualização em vídeo da animação) 
-  https://github.com/cristiandeivis/Sites-Informais/blob/main/4%20-%20Muros%20e%20Grades%206%20(07-2002)%20Flash/Filme1.mp4
+https://github.com/cristiandeivis/Sites-Informais/blob/main/4%20-%20Muros%20e%20Grades%206%20(07-2002)%20Flash/Filme1.mp4
 
 **Demais versões com Flash também possuem material de apoio:**
 
 **6 - Muros e Grades 9 (01/2004)**  
 - Imagem Site Flash.png (visual de como o site era com a animação) 
-  https://github.com/cristiandeivis/Sites-Informais/blob/main/6%20-%20Muros%20e%20Grades%209%20(01-2004)%20Flash/Imagem%20Site%20Flash.png  
+<img width="780" height="595" alt="Imagem Site Flash" src="https://github.com/user-attachments/assets/445884ae-917a-46bf-b6f3-b8e16cdff25c" />
 - index_logo.mp4 (visualização em vídeo da animação) 
   https://github.com/cristiandeivis/Sites-Informais/blob/main/6%20-%20Muros%20e%20Grades%209%20(01-2004)%20Flash/index_logo.mp4
 
 **7 - Muros e Grades 10 (03/2004)**  
 - Imagem Site Flash.png (visual de como o site era com a animação) 
-  https://github.com/cristiandeivis/Sites-Informais/blob/main/7%20-%20Muros%20e%20Grades%2010%20(03-2004)%20Flash/Imagem%20Site%20Flash.png  
+  <img width="776" height="609" alt="Imagem Site Flash" src="https://github.com/user-attachments/assets/527b013e-dc6b-4d57-b336-35ab31655925" />
 - index_logo.mp4 (visualização em vídeo da animação)  
   https://github.com/cristiandeivis/Sites-Informais/blob/main/7%20-%20Muros%20e%20Grades%2010%20(03-2004)%20Flash/index_logo.mp4
